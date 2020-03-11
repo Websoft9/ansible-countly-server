@@ -1,2 +1,3 @@
 ---
-mongodb_pwd: 123456
+mongodb_root_password: 123456
+mongodb_countly_password: websoft9
